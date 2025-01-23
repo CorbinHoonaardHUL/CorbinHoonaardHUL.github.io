@@ -1,1 +1,1 @@
-sigma sigma
+A random thing i code when im bored
